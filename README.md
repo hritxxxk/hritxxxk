@@ -41,8 +41,8 @@ Feel free to reach out if you have any questions, suggestions, or if you'd like 
 
 ## 🌍 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hritik-blue)](https://www.linkedin.com/in/hritik)
-[![Twitter](https://img.shields.io/badge/Twitter-hritxxxk-blue)](https://twitter.com/hritxxxk)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hritik-blue)](https://www.linkedin.com/in/hrithikdineshan)
+[![Twitter](https://img.shields.io/badge/Instagram-hritxxxk-blue)](https://instagram.com/hrit7ik)
 
 
 Thank you for visiting my GitHub profile!
