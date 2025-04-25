@@ -3,7 +3,7 @@
 [![Profile views](https://komarev.com/ghpvc/?username=hritxxxk&color=brightgreen&style=flat-square)](https://github.com/hritxxxk) [![Code Time](https://wakatime.com/badge/user/YOUR_WAKATIME_ID/text.svg)](https://wakatime.com/@YOUR_WAKATIME_USERNAME) <!-- Optional: Add WakaTime if you use it! -->
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDNoc3U4Z3h6aXNoc280eWR3N2htcjAwNGZobzVmcjV0cnNnNndidyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200" alt="Data Matrix GIF">
+  <img src="[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDNoc3U4Z3h6aXNoc280eWR3N2htcjAwNGZobzVmcjV0cnNnNndidyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://media.giphy.com/media/3ohs4qw8hkPShhTAze/giphy.gif)" width="200" alt="Data Matrix GIF">
 </p>
 
 ---
@@ -22,7 +22,7 @@ My toolkit is always evolving, but here's what I'm wielding right now:
 
 *   **💻 Languages:**
     *   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) `|| Fluent || Core Weapon`
-    *   *(Maybe add SQL, R if applicable)* `|| Learning || Expanding Horizons`
+    *   `SQL || Learning || Expanding Horizons`
 
 *   **🧠 Areas of Fascination:**
     *   🤖 **Machine Learning:** Building intelligent systems that learn and predict. From Regression to Deep Neural Networks!
