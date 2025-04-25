@@ -1,4 +1,4 @@
-# 🔥 Hrithik // Data Alchemist & Insight Hunter 🔥
+#  Hrithik // Data Science & Machine Learning
 
 [![Profile views](https://komarev.com/ghpvc/?username=hritxxxk&color=brightgreen&style=flat-square)](https://github.com/hritxxxk) [![Code Time](https://wakatime.com/badge/user/YOUR_WAKATIME_ID/text.svg)](https://wakatime.com/@YOUR_WAKATIME_USERNAME) <!-- Optional: Add WakaTime if you use it! -->
 
