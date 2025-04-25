@@ -35,13 +35,13 @@ In this project, machine learning techniques are applied to classify anemia base
 
 ## 📧 Contact Me
 
-📩 Email: [hritik@gmail.com](mailto:hritik@gmail.com)
+📩 Email: [hrit7ik@gmail.com](mailto:hrit7ik@gmail.com)
 
 Feel free to reach out if you have any questions, suggestions, or if you'd like to collaborate on any interesting projects!
 
 ## 🌍 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hritik-blue)](https://www.linkedin.com/in/hrithikdineshan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hrithik-blue)](https://www.linkedin.com/in/hrithikdineshan)
 [![Twitter](https://img.shields.io/badge/Instagram-hritxxxk-blue)](https://instagram.com/hrit7ik)
 
 
