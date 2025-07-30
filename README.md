@@ -1,106 +1,87 @@
-# 🔥 Hrithik // Data Science & Machine Learning 🔥
+Hi, I'm Hrithik — Data Scientist & Machine Learning Engineer
 
-[![Profile views](https://komarev.com/ghpvc/?username=hritxxxk&color=brightgreen&style=flat-square)](https://github.com/hritxxxk) [![Code Time](https://wakatime.com/badge/user/YOUR_WAKATIME_ID/text.svg)](https://wakatime.com/@YOUR_WAKATIME_USERNAME) <!-- Optional: Add WakaTime if you use it! -->
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDNoc3U4Z3h6aXNoc280eWR3N2htcjAwNGZobzVmcjV0cnNnNndidyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200" alt="Data Matrix GIF">
-</p>
+<p align="center"> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDNoc3U4Z3h6aXNoc280eWR3N2htcjAwNGZobzVmcjV0cnNnNndidyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="300" alt="Data Matrix GIF"> </p>
 
----
+I'm Hrithik, a Data Scientist currently working. My focus is on developing real-world machine learning systems—especially in areas like computer vision, NLP, and explainable AI. I’m particularly interested in turning raw, unstructured data into practical, production-ready solutions.
 
-## 🚀 About Me: Decoding the Digital Universe! 🌌
+I enjoy solving problems that sit at the intersection of code, mathematics, and product impact. Whether it’s optimizing an ML pipeline or exploring the latest in AI research, I like working on things that drive meaningful change.
 
-Hey there! I'm **Hrithik**, a relentless explorer navigating the vast cosmos of data. 👨‍💻 I'm not just an aspiring Data Scientist/Analyst; I'm on a **mission** to transmute raw numbers into pure gold insights. My passion? Diving headfirst into complex datasets, wrestling with algorithms, and uncovering those "Aha!" moments hidden within the noise. 💡
 
-I thrive on the challenge of **analyzing**, **interpreting**, and **visualizing** data, transforming it from a cryptic puzzle into a compelling story. If data has secrets, consider me the detective hired to expose them! 🕵️‍♂️
+Tech Stack
+Languages
+Python, R, SQL, PostgreSQL
 
----
+Core Skills
+Data Processing: Pandas, NumPy, Scikit-learn
 
-## 🛠️ My Data Science Arsenal & Passions 🔥
+NLP: NLTK, spaCy
 
-My toolkit is always evolving, but here's what I'm wielding right now:
+Deep Learning: PyTorch, TensorFlow, Keras
 
-*   **💻 Languages:**
-    *   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) `|| Fluent || Core Weapon`
-    *  ` SQL || R|| Learning || Expanding Horizons`
+Computer Vision: OpenCV, VQA, OCR, multimodal modeling
 
-*   **🧠 Areas of Fascination:**
-    *   🤖 **Machine Learning:** Building intelligent systems that learn and predict. From Regression to Deep Neural Networks!
-    *   📊 **Data Analysis & Visualization:** Turning numbers into narratives with Pandas, NumPy, Matplotlib, Seaborn, Power BI/Tableau *(mention specific tools)*.
-    *   💬 **Natural Language Processing (NLP):** Teaching machines to understand and generate human language. The magic behind chatbots and sentiment analysis!
-    *   📈 **Predictive Modeling:** Forecasting the future, one data point at a time (Churn, Sales, Trends...).
+Model Interpretability: SHAP, LIME
 
-*   **🔧 Frameworks & Tools:**
-    *   `Scikit-learn`, `TensorFlow`/`PyTorch` *(Choose or add)*, `LangChain`, `NLTK`/`spaCy` *(Choose or add)*, `Jupyter Notebooks`, `Git & GitHub`, `Docker` *(Optional)*
+Generative AI, RAG, Reinforcement Learning, Fine-tuning
 
----
+Deployment & MLOps
+Cloud: AWS (EC2, S3, Lambda), GCP (Vertex AI)
 
-## ✨ Project Constellation: Where Code Meets Impact ✨
+APIs: FastAPI, Flask
 
-Here are a few expeditions from my data journey. Dive deeper if you dare!
+MLOps Tools: Celery, Redis, CI/CD pipelines
 
-<details>
-  <summary>💥 **Project 1: Churn Prediction - The Sentiment Crystal Ball** 🔮</summary>
+Version Control: Git & GitHub
 
-  *   **Mission:** Predict customer churn *before* it happens by deciphering the hidden emotions in their feedback! 😠😊
-  *   **Approach:** Leveraged NLP techniques (Sentiment Analysis, TF-IDF/Embeddings) on customer reviews to engineer features predicting churn likelihood.
-  *   **Tech Stack:** `Python`, `Pandas`, `NLTK`/`spaCy`, `Scikit-learn`
-  *   **Outcome:** Developed a model identifying at-risk customers with X% accuracy, enabling proactive retention strategies.
-  *   **[Explore the Code ->]([link-to-your-churn-repo])** `(Replace with actual link!)`
+Statistical Analysis
+EDA, Bayesian inference, hypothesis testing, time series, simulation techniques
+
+Projects
+<details> <summary><strong>Advanced Financial Forecasting API</strong> (Aug 2025 – Present)</summary>
+Built a REST API that delivers financial insights using time series, regression, and simulation models.
+
+Stack: Flask, Statsmodels, PostgreSQL
+
+Achieved 95%+ test coverage and full production deployment.
+View project
+
+</details> <details> <summary><strong>Customer Churn Prediction Using Sentiment Analysis</strong> (Feb – Jul 2025)</summary>
+Combined traditional ML with NLP to detect churn risk and key sentiment drivers.
+
+Stack: Scikit-Learn, NLTK, SHAP
+
+Achieved 88% accuracy and helped boost retention strategies.
+View project
+
+</details> <details> <summary><strong>Anemia Classification Using R</strong> (Sep 2024 – Jan 2025)</summary>
+Developed a predictive model to aid medical diagnosis using health data.
+
+Stack: R (caret, dplyr)
+
+Reached 94% accuracy and highlighted key health indicators.
+View project
+
 </details>
 
-<details>
-  <summary>💬 **Project 2: LangChain QA - Building a Digital Oracle** 🧠</summary>
 
-  *   **Mission:** Construct an intelligent Question-Answering system capable of understanding context and providing accurate answers from a knowledge base.
-  *   **Approach:** Integrated a powerful Language Model (like GPT variants, BERT, etc.) with LangChain's framework for document retrieval, context injection, and answer generation.
-  *   **Tech Stack:** `Python`, `LangChain`, `Hugging Face Transformers`/`OpenAI API` *(Specify)*, `Vector Databases` *(e.g., ChromaDB, FAISS - if used)*
-  *   **Outcome:** Created a QA bot that significantly improves information retrieval speed and accuracy compared to simple keyword search.
-  *   **[Witness the Intelligence ->]([link-to-your-langchain-qa-repo])** `(Replace with actual link!)`
-</details>
+GitHub Activity
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=hritxxxk&show_icons=true&count_private=true&theme=radical&border_radius=10&hide_border=true" alt="GitHub Stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hritxxxk&layout=compact&theme=radical&border_radius=10&hide_border=true" alt="Top Languages" /> </p>
+What I’m Currently Exploring
+Advanced computer vision and vision-language modeling
 
-<details>
-  <summary>⚕️ **Project 3: Anemia Classification - Data for Diagnostics** 🩸</summary>
+Large-scale MLOps and deployment strategies
 
-  *   **Mission:** Apply Machine Learning muscle to classify the presence and potential severity of anemia using patient health metrics.
-  *   **Approach:** Explored various classification algorithms (e.g., Logistic Regression, SVM, Random Forest, XGBoost) on patient data, focusing on feature engineering and model explainability.
-  *   **Tech Stack:** `Python`, `R` *(if used)*, `Pandas`, `Scikit-learn`, `Matplotlib`/`Seaborn`
-  *   **Outcome:** Built a classifier achieving Y% F1-score/AUC, demonstrating the potential of ML in aiding diagnostic processes.
-  *   **[Analyze the Results ->]([link-to-your-anemia-repo])** `(Replace with actual link!)`
-</details>
+RAG-based retrieval systems
 
----
+Cost-effective cloud architecture for ML workflows
 
-## 📊 My GitHub Pulse & Activity 📈
+Contact
+Feel free to connect or collaborate.
 
-![Hrithik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hritxxxk&show_icons=true&count_private=true&theme=radical&border_radius=10&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hritxxxk&layout=compact&theme=radical&border_radius=10&hide_border=true)
-<!-- Optional: Add contribution graph -> [![GitHub Streak](https://streak-stats.demolab.com/?user=hritxxxk&theme=radical&hide_border=true)](https://git.io/streak-stats) -->
 
----
 
-## 🚀 Currently Exploring & Future Quests 🧭
 
-*   🧠 Diving deeper into **Deep Learning architectures** (Transformers, CNNs, RNNs).
-*   ☁️ Experimenting with **Cloud Platforms** (AWS SageMaker / Google AI Platform / Azure ML).
-*   📈 Mastering **MLOps principles** for robust model deployment.
-*   *Always* hunting for the next fascinating dataset or challenging problem!
 
----
 
-## 📫 Let's Connect & Collaborate! 🤝
-
-Got a data conundrum? A wild project idea? Or just want to nerd out about algorithms? Don't be a stranger!
-
-*   **📩 Email:** [hrit7ik@gmail.com](mailto:hrit7ik@gmail.com)
-*   **💼 LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/hrithikdineshan)
-*   **📸 Instagram:** [![Instagram](https://img.shields.io/badge/Instagram-Follow-purple?style=flat-square&logo=instagram)](https://instagram.com/hrit7ik)
-*   *(Add other relevant links like Twitter, Portfolio Website, Kaggle etc.)*
-
----
-
-<p align="center">
-  <i>"In data we trust... but verify with rigorous analysis!"</i> 😉
-</p>
-
-Thanks for stopping by! Let's make data make sense, together. ✨
+<p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote"/> </p> <p align="center"> <i>"In data we trust, but always verify with analysis."</i> </p>
