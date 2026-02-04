@@ -1,87 +1,96 @@
-Hi, I'm Hrithik — Data Scientist & Machine Learning Engineer
+Hi, I'm Hrithik Dinesh
 
+Data Scientist with expertise in AI automation, statistical validation, and workflow optimization.
 
-<p align="center"> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDNoc3U4Z3h6aXNoc280eWR3N2htcjAwNGZobzVmcjV0cnNnNndidyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="300" alt="Data Matrix GIF"> </p>
+- Building statistically validated AI models that automate difficult workflows
+- Deploying production systems on AWS with real enterprise clients
+- Transforming broken, unstructured data into structured intelligence
 
-I'm Hrithik, a Data Scientist currently working. My focus is on developing real-world machine learning systems—especially in areas like computer vision, NLP, and explainable AI. I’m particularly interested in turning raw, unstructured data into practical, production-ready solutions.
+### Projects
 
-I enjoy solving problems that sit at the intersection of code, mathematics, and product impact. Whether it’s optimizing an ML pipeline or exploring the latest in AI research, I like working on things that drive meaningful change.
+Portfolio of [production AI systems](#production-systems) deployed for enterprise clients including Marks & Spencer and Titan Eyewear.
 
+### Tools
 
-Tech Stack
-Languages
-Python, R, SQL, PostgreSQL
+- **Languages**: Python, SQL
+- **AI/ML**: XGBoost, LLM-assisted workflows (classification and extraction)
+- **Infrastructure**: AWS (APIs, Hosting, Deployment)
 
-Core Skills
-Data Processing: Pandas, NumPy, Scikit-learn
+### Connect with Me
 
-NLP: NLTK, spaCy
+- [LinkedIn](https://www.linkedin.com/in/hrithikdineshan/)
 
-Deep Learning: PyTorch, TensorFlow, Keras
+---
 
-Computer Vision: OpenCV, VQA, OCR, multimodal modeling
+## Production Systems
 
-Model Interpretability: SHAP, LIME
+### AI-Powered Product Intelligence System
 
-Generative AI, RAG, Reinforcement Learning, Fine-tuning
+Multimodal AI using CLIP + BLIP with Gemini API fallback, combined with agentic web search to automate PIM data entry.
 
-Deployment & MLOps
-Cloud: AWS (EC2, S3, Lambda), GCP (Vertex AI)
+**Impact**:
+- 30 seconds per product (down from hours)
+- Deployed for 10+ enterprise clients including Marks & Spencer and Titan Eyewear
+- Full AWS deployment - APIs and hosting
 
-APIs: FastAPI, Flask
+**Tech**: `CLIP` `BLIP` `Gemini API` `Agentic Search` `AWS` `Python`
 
-MLOps Tools: Celery, Redis, CI/CD pipelines
+---
 
-Version Control: Git & GitHub
+### Hostile Data Compiler
 
-Statistical Analysis
-EDA, Bayesian inference, hypothesis testing, time series, simulation techniques
+ETL pipeline that accepts any data format no matter how broken and transforms it into PIM-ready templates. Handles data from Magento, Shopify, WooCommerce, Amazon SP, FSP, SFTP, and Google Drive.
 
-Projects
-<details> <summary><strong>Advanced Financial Forecasting API</strong> (Aug 2025 – Present)</summary>
-Built a REST API that delivers financial insights using time series, regression, and simulation models.
+**Impact**:
+- 10,000 products processed in 20 minutes
+- Reduced months of work to hours
+- Full AWS deployment end-to-end
 
-Stack: Flask, Statsmodels, PostgreSQL
+**Tech**: `Python` `ETL` `Multi-source APIs` `AWS`
 
-Achieved 95%+ test coverage and full production deployment.
-View project
+---
 
-</details> <details> <summary><strong>Customer Churn Prediction Using Sentiment Analysis</strong> (Feb – Jul 2025)</summary>
-Combined traditional ML with NLP to detect churn risk and key sentiment drivers.
+### Data Transformation Engine
 
-Stack: Scikit-Learn, NLTK, SHAP
+Tools to transform unstructured and broken product data into structured insights for product creation.
 
-Achieved 88% accuracy and helped boost retention strategies.
-View project
+**Impact**:
+- Unlocked team productivity
+- Validated strong data intuition and foundational statistics skills
 
-</details> <details> <summary><strong>Anemia Classification Using R</strong> (Sep 2024 – Jan 2025)</summary>
-Developed a predictive model to aid medical diagnosis using health data.
+---
 
-Stack: R (caret, dplyr)
+## Philosophy
 
-Reached 94% accuracy and highlighted key health indicators.
-View project
+**Data preprocessing is everything** - If you understand your data manually and regularly, you become the pattern recognition system, then the AI you build actually works.
 
-</details>
+**AI is underutilized** - Most "AI is stupid" complaints are "I'm using AI wrong" problems. The issue is implementation, not capability.
 
+**Theory plus practice** - Statistical foundations make new AI technologies easier to understand and implement quickly.
 
-GitHub Activity
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=hritxxxk&show_icons=true&count_private=true&theme=radical&border_radius=10&hide_border=true" alt="GitHub Stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hritxxxk&layout=compact&theme=radical&border_radius=10&hide_border=true" alt="Top Languages" /> </p>
-What I’m Currently Exploring
-Advanced computer vision and vision-language modeling
+---
 
-Large-scale MLOps and deployment strategies
+## Track Record
 
-RAG-based retrieval systems
+- **5 models** deployed to production
+- **10+ enterprise clients** including Marks & Spencer, Titan Eyewear
+- **Full AWS infrastructure** deployment and hosting
+- **Months to hours** in workflow automation improvements
 
-Cost-effective cloud architecture for ML workflows
+---
 
-Contact
-Feel free to connect or collaborate.
+## Current Work
 
+Advancing the Hostile Data Compiler - making it more robust at handling any data format, any structure, any level of brokenness.
 
+Focus areas - multimodal AI for product intelligence, hostile data transformation, workflow automation with real user impact, statistically validated models.
 
+---
 
+## What I'm Looking For
 
+Open to full-time opportunities, freelance projects, collaborations, technical discussions.
 
-<p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote"/> </p> <p align="center"> <i>"In data we trust, but always verify with analysis."</i> </p>
+Best projects - where AI impacts user experience and makes difficult tasks easier.
+
+**Connect**: [LinkedIn](https://www.linkedin.com/in/hrithikdineshan/)
